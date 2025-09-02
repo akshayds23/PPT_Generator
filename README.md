@@ -35,8 +35,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 Made with ❤️ for presentation automation
   
-</div>www.python.org/downloads/)
-
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.0-green.svg)](https://fastapi.tiangolo.com/)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
