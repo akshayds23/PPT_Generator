@@ -1,6 +1,8 @@
 # PPT Generator 🎯
 
-[![Python](https://img.shields.io/badge/python-3.12-blue.svg)](http## 📝 Technical Notes
+[![Python](https://img.shields.io/badge/python-3.12-blue.svg)]
+
+(http## 📝 Technical Notes
 
 ### Limitations
 - Input text is truncated to ensure token safety with LLMs
